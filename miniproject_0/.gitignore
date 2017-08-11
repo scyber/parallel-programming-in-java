@@ -1,3 +1,8 @@
+.classpath
+.idea/
+.project
+.settings/
 hamcrest-core-1.3.jar
 junit-4.12.jar
 pcdp-core-0.0.4-SNAPSHOT.jar
+miniproject_0.iml
